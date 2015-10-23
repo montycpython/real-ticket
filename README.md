@@ -1,6 +1,7 @@
 real-ticket 
 ===========
 read me
- I wonder if this rns python.
+
+Ticket software
 
 Ticket Software by Montavious
